@@ -12,7 +12,8 @@ This is a little project that I made because people were talking about automatin
 Nobody did it, so I did.  
 I won't really use it, it was just for the fun of learning something new.  
 To make this I took my Sunday and learned AutoHotKey and what are the different possibilities of it. 
-I just scratched the surface but it was very interesting, fun and I can impressively facilitate my everyday's life with what I learned.  
+I just scratched the surface,  
+but it was very interesting, fun and I can impressively facilitate my everyday's life with what I learned.  
 To use it, read the instructions below.  
 
 ## Instructions:  
