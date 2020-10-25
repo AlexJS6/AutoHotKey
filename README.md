@@ -20,6 +20,6 @@ To use it read the instructions below.
 3. Copy my text file in the repository and paste it in it.
 4. Save your file and double click on it to run it.
 5. Press 'ctrl + t' to activate the timer, if you dont want it activated anymore exit autohotkey in the running programs.
-- You can also launch it (ctrol + t) just before you go away when you can't point and it will do it self.
+- You can also launch it (ctrl + t) just before you go away when you can't point and it will do it self.
 
 
