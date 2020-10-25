@@ -1,0 +1,12 @@
+^t::
+SetTimer, CheckTime, 30000
+Return
+
+CheckTime:
+TheTime = %A_Hour%%A_Min%
+If (TheTime = 2337)
+{
+    Run chrome.exe "https://www.youtube.com/?gl=BE" " --new-window "
+    Sleep, 5000
+    SendEvent {Click, 650, 720}
+}
