@@ -14,6 +14,7 @@ I won't really use it, it was just for the fun of learning something new.
 To make this I took my Sunday and learned AutoHotKey and what are the different possibilities of it.   
 I just scratched the surface but it was very interesting, fun and I can impressively facilitate my everyday's life with what I learned.  
 To use it, read the instructions below.  
+This is only when being home, when at BeCode we do not have to point.
 
 ## Instructions:  
 1. Download Autohotkey on this site: https://www.autohotkey.com/
