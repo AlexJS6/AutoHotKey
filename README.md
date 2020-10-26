@@ -24,5 +24,6 @@ This is only when being home, when at BeCode we do not have to point.
 5. Save your file and double click on it to run it.
 6. Press 'ctrl + t' to activate the timer, if you dont want it activated anymore, exit autohotkey in the running programs.
 - You can also launch it (ctrl + t) just before you go away when you can't point and it will do it from self.
+- If you will go afk you also need to copy paste my anti afk script in the other txt and to activate it press 'ctrl + a' (it will press space every minute).
 
 
