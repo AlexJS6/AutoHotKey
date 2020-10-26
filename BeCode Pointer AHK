@@ -1,12 +1,42 @@
+#NoEnv
+#Persistent
+
 ^t::
 SetTimer, CheckTime, 30000
 Return
 
+; Coordinates may need to be changed
+
 CheckTime:
 TheTime = %A_Hour%%A_Min%
-If (TheTime = 2337)
+
+If (TheTime = 0855)
 {
-    Run chrome.exe "https://www.youtube.com/?gl=BE" " --new-window "
-    Sleep, 5000
-    SendEvent {Click, 650, 720}
+    Run chrome.exe "https://my.becode.org/dashboard" " --new-window "
+    Sleep, 16000
+    SendEvent {Click, 580, 440} ; Home
+    Sleep, 3000
+    SendEvent {Click, 825, 445} ; 09:00
 }
+
+If (TheTime = 1230)
+{
+    Run chrome.exe "https://my.becode.org/dashboard" " --new-window "
+    Sleep, 16000
+    SendEvent {Click, 1050, 445} ; 12:30
+}
+
+If (TheTime = 1325)
+{
+    Run chrome.exe "https://my.becode.org/dashboard" " --new-window "
+    Sleep, 16000
+    SendEvent {Click, 1275, 445} ; 13:30
+}
+
+If (TheTime = 1700)
+{
+    Run chrome.exe "https://my.becode.org/dashboard" " --new-window " ;maybe need to change if not using chrome
+    Sleep, 16000
+    SendEvent {Click, 1500, 445} ; 17:00
+}
+
