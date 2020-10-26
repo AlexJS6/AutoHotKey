@@ -1,0 +1,8 @@
+
+^a::
+SetTimer, PressTheKey, 60000
+Return
+
+PressTheKey:
+Send, {Space}
+Return
